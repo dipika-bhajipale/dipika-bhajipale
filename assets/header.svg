@@ -6,8 +6,8 @@
     </style>
 
     <linearGradient id="bg-grad-inv" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%"   stop-color="rgb(30, 27, 75)"/>
-      <stop offset="100%" stop-color="rgb(76, 29, 149)"/>
+      <stop offset="0%"   stop-color="rgba(0, 0, 0, 0)"/>
+      <stop offset="100%" stop-color="rgba(0, 0, 0, 0)"/>
     </linearGradient>
 
     <linearGradient id="fade-mask-grad" x1="0" y1="0" x2="1" y2="0">
@@ -80,7 +80,7 @@ V 0 H 0 Z"/>
     text-anchor="middle"
     letter-spacing="-1"
     filter="url(#text-glow)">
-    Berkay Sevinç
+    Dipika Bhajipale
   </text>
 
   <!-- DESC -->
@@ -92,7 +92,7 @@ V 0 H 0 Z"/>
     text-anchor="middle"
     letter-spacing="0.5"
     filter="url(#text-glow)">
-    Software Engineer
+    Aspiring Java &amp; AI Developer | Computer Engineering Student | Backend Developmen…
   </text>
 
 </svg>
