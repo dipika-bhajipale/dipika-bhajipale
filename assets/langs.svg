@@ -56,10 +56,10 @@
 
   <!-- Colored segments -->
   <g clip-path="url(#bar-shape)">
-      <rect x="20" y="42" width="735" height="22" fill="#3178c6"/>
-      <rect x="755" y="42" width="20" height="22" fill="#663399"/>
-      <rect x="775" y="42" width="4" height="22" fill="#f1e05a"/>
-      <rect x="779" y="42" width="1" height="22" fill="#e34c26"/>
+      <rect x="20" y="42" width="707" height="22" fill="#3178c6"/>
+      <rect x="727" y="42" width="25" height="22" fill="#e34c26"/>
+      <rect x="752" y="42" width="19" height="22" fill="#663399"/>
+      <rect x="771" y="42" width="9" height="22" fill="#f1e05a"/>
   </g>
 
   <!-- Shimmer overlay on bar: diagonal rect translates across, clipped to bar -->
@@ -71,12 +71,12 @@
 
   <!-- Legend with pulse -->
   <circle class="pulse" cx="25" cy="88" r="5" fill="#3178c6" style="animation-delay:0.0s;"/>
-  <text x="36" y="92.5" class="leg">TypeScript 96.8%</text>
-  <circle class="pulse" cx="215" cy="88" r="5" fill="#663399" style="animation-delay:0.4s;"/>
-  <text x="226" y="92.5" class="leg">CSS 2.6%</text>
-  <circle class="pulse" cx="405" cy="88" r="5" fill="#f1e05a" style="animation-delay:0.8s;"/>
-  <text x="416" y="92.5" class="leg">JavaScript 0.6%</text>
-  <circle class="pulse" cx="595" cy="88" r="5" fill="#e34c26" style="animation-delay:1.2s;"/>
-  <text x="606" y="92.5" class="leg">HTML 0.1%</text>
+  <text x="36" y="92.5" class="leg">TypeScript 93.0%</text>
+  <circle class="pulse" cx="215" cy="88" r="5" fill="#e34c26" style="animation-delay:0.4s;"/>
+  <text x="226" y="92.5" class="leg">HTML 3.3%</text>
+  <circle class="pulse" cx="405" cy="88" r="5" fill="#663399" style="animation-delay:0.8s;"/>
+  <text x="416" y="92.5" class="leg">CSS 2.5%</text>
+  <circle class="pulse" cx="595" cy="88" r="5" fill="#f1e05a" style="animation-delay:1.2s;"/>
+  <text x="606" y="92.5" class="leg">JavaScript 1.2%</text>
 
 </svg>
